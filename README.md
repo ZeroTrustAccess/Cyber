@@ -23,9 +23,9 @@ While my tech.journey has been a lifelong endeavor, **officially** we could say 
 
 ## .goals
 
--Work From Home
--Financially Support My Family
--Work in Technology
+- Work From Home
+- Financially Support My Family
+- Work in Technology
 
 
 I currently work as a *technician* for a well-known Fortune 500 that is currently poised as the "Leading Essential Home Services Platform". Basically, Home Security + Smart Home.
