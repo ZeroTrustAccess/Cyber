@@ -10,9 +10,8 @@ The following information is of a classified nature, and what follows will be di
 This is where I will document my journey through learning about cybersecurity, and my transition from **beginner** to **not-so-beginner**. I'm ready to leave the desolate life behind of working in the *Withering Industrial Wasteland* and discard my "blue collar". Instead, I'm embracing my **binary roots**, and beginning my career in Tech--for a very deep and **personal reason**.
 
 ## .why
-Wanted ta.
 
-Let's begin.
+^^
 
 # .updates
 
@@ -23,20 +22,20 @@ While my tech.journey has been a lifelong endeavor, **officially** we could say 
 
 ## .goals
 
-- Work From Home
+- Work Remotely
 - Financially Support My Family
 - Work in Technology
 
 
 I currently work as a *technician* for a well-known Fortune 500 company that is currently poised as the "Leading Essential Home Services Platform". Basically, Home Security + Smart Home.
 
-I'm never home, I hate driving, and I'm constantly in customer's homes installing, troubleshooting, and fixing tech.
+I'm never home, and I'm constantly in customer's homes installing, troubleshooting, and fixing tech.
 
 This leads to the **Number One Priority** of my entire career change:
 
--Work From Home-
+-Work Remotely-
 
-Cybersecurity and tech in general lead to many opportunities to work remotely, or from home. Family and Security are two of the most important things to me, and I spent too many years--making way too little money--away from my family doing things I hated. That will change.
+Cybersecurity and tech in general lead to many opportunities to work remotely, or from home. Family and Security are two of the most important things to me. Working remotely would allow me the opportunity to increase my productivity and efficiency. Cutting out travel time alone will allow me and my strong work ethic be able to dedicate more time to security. It also lends well to incident response and SOC analyst work, which I find to be a great starting point. 
 
 -Financially Support My Family-
 
