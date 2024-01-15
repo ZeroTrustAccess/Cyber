@@ -28,7 +28,7 @@ While my tech.journey has been a lifelong endeavor, **officially** we could say 
 - Work in Technology
 
 
-I currently work as a *technician* for a well-known Fortune 500 that is currently poised as the "Leading Essential Home Services Platform". Basically, Home Security + Smart Home.
+I currently work as a *technician* for a well-known Fortune 500 company that is currently poised as the "Leading Essential Home Services Platform". Basically, Home Security + Smart Home.
 
 I'm never home, I hate driving, and I'm constantly in customer's homes installing, troubleshooting, and fixing tech.
 
