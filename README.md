@@ -35,7 +35,7 @@ This leads to the **Number One Priority** of my entire career change:
 
 -Work Remotely-
 
-Cybersecurity and tech in general lead to many opportunities to work remotely, or from home. Family and Security are two of the most important things to me. Working remotely would allow me the opportunity to increase my productivity and efficiency. Cutting out travel time alone will allow me and my strong work ethic be able to dedicate more time to security. It also lends well to incident response and SOC analyst work, which I find to be a great starting point. 
+Cybersecurity and tech in general lead to many opportunities to work remotely, or from home. Family and Security are two of the most important things to me. Working remotely would allow me the opportunity to increase my productivity and efficiency. Cutting out travel time alone will allow me and my strong work to ethic be able to dedicate more time to security. It also lends well to incident response and SOC analyst work, which I find to be a great starting point. 
 
 -Financially Support My Family-
 
@@ -47,7 +47,7 @@ Talk about job security. That coupled with the fact that it's in high-demand, hi
 
 -Work in Technology-
 
-My whole life I've been the "computer guy",or the guy everyone took their phone to when they had an issue. I started my adventure with **Coursera** before I came across the **Google Cybersecurity Professional Certificte**. I had first started about a year prior working my way through the **Google It Support Professional Certificate**. This was right when Google was ramping up its education material on **Coursera**. I made my way through half if the program, completing:
+My whole life I've been the "computer guy", or the guy everyone took their phone to when they had an issue. I started my adventure with **Coursera** before I came across the **Google Cybersecurity Professional Certificte**. I had first started about a year prior working my way through the **Google It Support Professional Certificate**. This was right when Google was ramping up its education material on **Coursera**. I made my way through half of the program, completing:
 - Technical Support Fundamentals (04/13/21)
 - The Bits and Bytes of Computer Networking (05/05/21)
 - Operating Systems and You: Becoming a Power User (03/15/21)
