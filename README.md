@@ -35,7 +35,7 @@ This leads to the **Number One Priority** of my entire career change:
 
 -Work Remotely-
 
-Cybersecurity and tech in general lead to many opportunities to work remotely, or from home. Family and Security are two of the most important things to me. Working remotely would allow me the opportunity to increase my productivity and efficiency. Cutting out travel time alone will allow me and my strong work to ethic be able to dedicate more time to security. It also lends well to incident response and SOC analyst work, which I find to be a great starting point. 
+Cybersecurity and tech in general lead to many opportunities to work remotely, or from home. Family and Security are two of the most important things to me. Working remotely would allow me the opportunity to increase my productivity and efficiency. Cutting out travel time alone will allow me and my strong work ethic to be able to dedicate more time to security. It also lends well to incident response and SOC analyst work, which I find to be a great starting point. 
 
 -Financially Support My Family-
 
