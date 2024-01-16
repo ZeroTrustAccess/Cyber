@@ -52,5 +52,5 @@ My whole life I've been the "computer guy", or the guy everyone took their phone
 - The Bits and Bytes of Computer Networking (05/05/21)
 - Operating Systems and You: Becoming a Power User (03/15/21)
 
-Then *Life happened* and I realized the **Help Desk** was something I felt was already behind me in my journey. **Troubleshooting** and fixing people's computer issues is something I has been doing *unpaid and unprofessionally* for **20+ year**.
+Then *Life happened* and I realized the **Help Desk** was something I felt was already behind me in my journey. **Troubleshooting** and fixing people's computer issues is something I have been doing *unpaid and unprofessionally* for **20+ year**.
 
