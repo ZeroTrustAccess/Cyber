@@ -15,6 +15,16 @@ This is where I will document my journey through learning about cybersecurity, a
 
 # .updates
 
+## .update 1.1 - **First Project!**
+### Microsoft Azure Honeypot
+January 21,2024
+
+For the better-part of a week, I have been chipping away at beginning and documenting my first **Cybersecurity Project**.
+
+I've been looking to get my first project up and going for quite a while. Life gets busy, but I finally completed the setup adn documentation of the first step in the process: **Creating/Setting up a Virtual Machine**. While I've used VMs before, I had never used Azure, or done any of this on my own. I've also been learning more and more about how to use github. I'm finally starting to understand the basics and markdown syntax for linking files. It's actually been really fun!
+
+The readme is now updated with the link to the repository containing the first step in this project. I'm excited to set-up my first **honeypot** and watch the dangers of the internet play out. It's going to be interesting to see how much and from where my VM is attacked from. I plan to use this experience to do this again with another Honeypot set-up I've seen on YouTube, which features a graphical map that shows in real time, malicious actors attacking my VM.
+
 ## .update 1.0
 ### Genesis. Where I'm starting from.
 
