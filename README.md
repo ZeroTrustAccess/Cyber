@@ -29,6 +29,7 @@ I intend to create an entire separate documentation series on my learning throug
 ## .update 1.1 - **First Project!**
 ### Microsoft Azure Honeypot
 January 21,2024
+
 [Click here to go to the Project!](https://github.com/ZeroTrustAccess/Honeypot/blob/main/README.md)
 
 For the better-part of a week, I have been chipping away at beginning and documenting my first **Cybersecurity Project**.
