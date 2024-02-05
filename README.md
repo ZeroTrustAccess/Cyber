@@ -15,6 +15,17 @@ This is where I will document my journey through learning about cybersecurity, a
 
 # .updates
 
+##.update 1.1.2 -Project Update
+### Still unfinished
+
+Life is hectic. I started the Honeypot Project in Late January, and we're going into the third week since it began and it still isn't finished. This project odd based off a lab video from Josh Madakor that spans just under an hour, but my detailed documentation, fighting through Aure changes, and finding time to get back to the project have left me severely delayed in my progress. 
+
+it's also interesting to note that last week, I fired up the VM again and tried to resume the project, but the logging wouldn't work. After a long session of troubleshooting, I found that I had to delete the **failed_rdp.log** file from the C:/ProgramData folder on the Vm, otherwise, the script in Powershell ISE would fail to run, and the new logs wouldn't generate and save to the existing file. I thought they might, but my experience proved otherwise.
+
+Again, this week, my home-lab session was cut short when I again experienced log issues.
+
+When trying to query the RDP failed log via geo on the Logs Analytics Workspace, I was able to retrieve the now sorted logs from a week ago, but not any logs currently generating from today. I found there was a connection issue first with my VM that caused me to restart it several times, and then a connection issue in Azure with LAW to my VM. I wasnt able to troubleshoot further and get it running again, so back another time, we go. 
+
 ## .update 1.1.1 - **Education update**
 ### TryHackMe Progress - Pre Security
 January 21,2024
