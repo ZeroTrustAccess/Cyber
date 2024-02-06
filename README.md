@@ -15,7 +15,7 @@ This is where I will document my journey through learning about cybersecurity, a
 
 # .updates
 
-##.update 1.1.2 -Project Update
+## .update 1.1.2 -Project Update
 ### Still unfinished
 
 Life is hectic. I started the Honeypot Project in Late January, and we're going into the third week since it began and it still isn't finished. This project odd based off a lab video from Josh Madakor that spans just under an hour, but my detailed documentation, fighting through Aure changes, and finding time to get back to the project have left me severely delayed in my progress. 
