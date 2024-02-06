@@ -18,7 +18,7 @@ This is where I will document my journey through learning about cybersecurity, a
 ## .update 1.1.2 -Project Update
 ### Still unfinished
 
-Life is hectic. I started the Honeypot Project in Late January, and we're going into the third week since it began and it still isn't finished. This project odd based off a lab video from Josh Madakor that spans just under an hour, but my detailed documentation, fighting through Aure changes, and finding time to get back to the project have left me severely delayed in my progress. 
+Life is hectic. I started the Honeypot Project in Late January, and we're going into the third week since it began and it still isn't finished. This project is based off a lab video from Josh Madakor that spans just under an hour, but my detailed documentation, fighting through Aure changes, and finding time to get back to the project have left me severely delayed in my progress. 
 
 it's also interesting to note that last week, I fired up the VM again and tried to resume the project, but the logging wouldn't work. After a long session of troubleshooting, I found that I had to delete the **failed_rdp.log** file from the C:/ProgramData folder on the Vm, otherwise, the script in Powershell ISE would fail to run, and the new logs wouldn't generate and save to the existing file. I thought they might, but my experience proved otherwise.
 
