@@ -9,6 +9,22 @@ The following information is of a classified nature, and what follows will be di
 
 # .updates
 
+## .update 1.1.3 - Format, Broken Honeypot, and THM Progress.
+
+I have been having a lot of trouble finishing my honeypot project. It's not for a lack of interest, and I have been devoting hours of my time to it. Well, those hours have been segmented, but, the biggest issue I have been running into began with the log issues that I posted in the last update. I have since tried to restart the project and VM several times, and not only have I been unable to get the logs to sync correctly, I haven't been able to successfully log into my VM and get all of the pieces going to do so. I think the main reason for this is my network. I don't have the fastest home internet, and my current machine isn't wired. I did a test by trying to remote access the VM from my son's laptop. (His laptop is crazy powerful, because he uses it for gaming)
+
+Same result.
+
+Frustratedly, I have spent this section of time detaching from the Azure honeypot project, and instead diving deeper into github, the gitbash, the command prompt on windows, and cleaning up the repositories. I've also been making some more progress (finally) on TryHackMe.
+
+![screenshot of completed linux fundamentals](https://github.com/zerotrustaccess/cyber/blob/main/images/tryhackmepath1.png)
+I not only have finished all of the linux fundamentals, but I have also been progressing through the rest of the Windows Fundamentals so I can finally complete the Pre Security.
+
+![screenshot of progress of windows fundamentals](https://github.com/zerotrustaccess/cyber/blob/main/images/tryhackmepath2.png)
+
+After a lot of contemplating, I'm not so sure that **SOC Analyst** would really be a good fit for me. Not for my lifestyle and family. I've actually been leaning more towards **penetration tester**, and no, not because "ethical hacker" sounds cool. After I complete the rest of this on THM, I'll moving forward toward offensive hacking and see how that goes. I will also need to update the landing page some more, and add another project. I haven't completely written off the incident response stuff, since it *has* been the main direction of my training, and I still may do a SOC analyst lab, to help supplement the failure of my honeypot. I intend to put more projects here for as long as this journey continues. It can only help.
+
+
 ## .update 1.1.2 -Project Update
 ### Still unfinished
 
