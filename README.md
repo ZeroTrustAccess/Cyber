@@ -32,7 +32,7 @@ January 21,2024
 
 I haven't documented my progress so far on my progress through **TryHackMe**, but I think it would be beneficial to add on here since it's a big component of my cybersecurity adventure. As of right now, I have the intentions of enrolling and completing the **SOC 1** on TryHackMe, and make my way through as much as possible. I'm currently nearing the end of the **Pre Security** path, which is a pre-requisite, of sorts, for the SOC 1 path.
 
-![screenshot of current progress from tryhackme](https://github.com/ZeroTrustAccess/Cyber/blob/main/tryhackme1.png)
+![screenshot of current progress from tryhackme](https://github.com/ZeroTrustAccess/Cyber/blob/main/images/tryhackme1.png)
 
 I intend to create an entire separate documentation series on my learning through TryHackMe, so long as it doesn't slow me down. The goal here is to switch jobs and get into the cybersecurity field, not get stuck in learning purgatory.
 
